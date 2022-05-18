@@ -1,4 +1,4 @@
-# brueggern
+# Brueggern website
 
 ## Build Setup
 
